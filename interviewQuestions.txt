@@ -1,0 +1,91 @@
+🔧 1. Brush Up on Core Web Skills
+Master the basics:
+
+HTML5 – semantic tags, forms, accessibility
+
+CSS3 – flexbox, grid, media queries, transitions
+
+JavaScript (ES6+) – arrow functions, promises, fetch API, array methods (map, filter, reduce)
+
+👉 Resources:
+
+freeCodeCamp
+
+MDN Web Docs
+
+⚛️ 2. Strengthen Your React Fundamentals
+Since React is preferred, focus on:
+
+Creating functional components
+
+Props and state
+
+useEffect and useState hooks
+
+JSX syntax
+
+Handling events
+
+Conditional rendering
+
+Lists and keys
+
+Basic routing (React Router)
+
+👉 Bonus: Try building a small app like a To-do list, Weather app, or Blog viewer.
+
+🛠 3. Learn How to Use APIs
+You’ll likely need to fetch and display data. Practice:
+
+Using fetch() or axios to call APIs
+
+Handling loading and error states
+
+Mapping over data to display it in UI
+
+🧪 4. Practice Debugging and Testing
+Use Chrome DevTools to inspect and debug
+
+Console logs, breakpoints, network tab
+
+Try fixing bugs in small React projects or on platforms like CodeSandbox
+
+🔗 5. Get Comfortable with Git and GitHub
+Clone and push repos
+
+Create branches, pull requests, and commits
+
+Write meaningful commit messages
+
+Use .gitignore, .readme.md
+
+👉 If you're new to Git:
+
+GitHub Docs – Hello World Guide
+
+🤝 6. Prepare for Collaboration
+They’ll expect you to:
+
+Communicate clearly in messages or meetings
+
+Share code via GitHub
+
+Ask questions and show eagerness to learn
+
+📑 7. Set Up Your Tools
+Make sure your dev environment is ready:
+
+Code editor: VS Code (with ESLint, Prettier, GitLens)
+
+Browser: Chrome or Firefox
+
+GitHub account
+
+Portfolio or GitHub profile updated with a few projects
+
+✅ Bonus: Prepare Mentally
+Be proactive, not passive
+
+Ask for feedback often
+
+Show curiosity—read documentation, explore features, and offer ideas when appropriate
