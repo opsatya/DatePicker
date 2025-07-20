@@ -240,7 +240,7 @@ npm test recurrence-engine.test.ts
 - **Trade-off**: May not show all dates for very long ranges, but covers 99% of use cases
 
 ### Monthly Weekday Complexity
-- **Why**: Supports advanced patterns like "last Friday of month"
+- **Why**: Spports advanced patterns like "last Friday of month"
 - **Trade-off**: More complex logic, but essential for business applications
 
 ## Browser Support
@@ -248,14 +248,6 @@ npm test recurrence-engine.test.ts
 - Modern browsers with ES2020 support
 - React 18+
 - TypeScript 5+
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Ensure all tests pass
-5. Submit a pull request
 
 ## License
 
